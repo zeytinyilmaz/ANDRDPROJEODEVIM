@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#323336</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="karsilama">#ffffff</color>
+    <color name="aramaKutusu">#ffffff</color>
+    <color name="aramaArkaPlan">#000000</color>
+</resources>

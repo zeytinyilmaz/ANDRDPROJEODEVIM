@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Türkçe Sözlük</string>
+    <string name="Kelimeler">Kelimeler</string>
+    <string name="Ayarlar">Ayarlar</string>
+    <string name="Cikis">Çıkış</string>
+
+    <string-array name="HarfsiralamaBicimi">
+        <item name="A-Z">A-Z</item>
+        <item name="Z-A">Z-A</item>
+        <item name="A">A</item>
+        <item name="B">B</item>
+
+    </string-array>
+    <string name="dizi">
+
+        <item name="A-Z">A-Z</item>
+        <item name="Z-A">Z-A</item>
+        <item name="A">A</item>
+        <item name="B">B</item>
+
+    </string>
+    <string name="dizii">
+
+        <item>A-Z</item>
+        <item>Z-A</item>
+        <item>A</item>
+        <item>B</item>
+
+    </string>
+</resources>
