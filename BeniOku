@@ -1,0 +1,4 @@
+Uygulamanın amacı android kullanıcılarına internet olmadığı durumlarda herhangi bir sözcüğün anlamını bulmak istediğinde aradığı
+kelimenin anlamına kolaylıkla ulaşmasını sağlamaktadır.
+Uygulama bir proje ödevidir.
+SQLite veri tabanı kullanarak hazırlanmıştır.
